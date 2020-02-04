@@ -1,0 +1,8 @@
+자바 스크립트 많은 이벤트들을 알수 있는 곳
+MDN
+
+리소스 = 이미지
+
+setintervla 시간간격을 주는 용어
+
+local storage.getItem 작은 자바스크립 정보들을 저장하는 문
